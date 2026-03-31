@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @license
  * SPDX-License-Identifier: Apache-2.0
  */
@@ -256,13 +256,13 @@ export default function App() {
             <div className="problem-label">The Problem</div>
             <div className="problem-card" style={{ marginBottom: '16px' }}>
               <div className="problem-stat">01</div>
-              <h3>No accountability loop</h3>
-              <p>Verbal commitments evaporate by end-of-week. There's nothing connecting what was said to what got done.</p>
+              <h3>Lost in notes</h3>
+              <p>Action items get buried in docs no one reads again. The decision existed — its execution didn't.</p>
             </div>
             <div className="problem-card">
               <div className="problem-stat">02</div>
               <h3>No accountability loop</h3>
-              <p>Verbal commitments evaporate by end-of-week. There's nothing connecting what was said to what got done.</p>
+              <p>Decisions have no owner, no review, and no follow-through system. Without a clear accountability loop, commitments fade and execution stalls.</p>
             </div>
           </motion.div>
         </div>
